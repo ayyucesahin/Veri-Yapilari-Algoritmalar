@@ -18,3 +18,12 @@
  2- [3,5,7,8,2,9,4,15,6]
  3- [3,5,7,8,2,9,4,15,6]
  4- [3,5,7,2,8,4,9,15,6]
+ 
+ 
+ # Merge Sort Projesi
+ 
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+Big-O gösterimini yazınız.
